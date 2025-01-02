@@ -1,1 +1,2 @@
-# netflix_project_sql
+# netflix_project for Movies and TV shows
+![]()
